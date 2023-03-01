@@ -18,14 +18,17 @@ Read the full documentation of <a href="https://github.com/LeDuble/Git-Etiquette
 3. Add labels to your organization or repository as described here: <a href="https://github.com/LeDuble/Git-Etiquette#labe">The labels for issues (Git Etiquette)</a>
 
 #### Workflow file setup
-4. Read the <a href="https://github.com/LeDuble/Git-Etiquette#wfile">documentation (Git Etiquette)</a> to learn how to configure the workflow file.
+4. select the workflow file that you are going to use
+* If you are planning to use this workflow within your organization, keep the `WFprojects_organization_version.yaml` file and delete the `WFprojects.yml` file. If you are planning to use it as an individual, do the opposite.
+
+5. Read the <a href="https://github.com/LeDuble/Git-Etiquette#wfile">documentation (Git Etiquette)</a> to learn how to configure the workflow file.
 * If the setup has already been done, you can proceed to the next step which is configuring the values. Read more at <a href="https://github.com/LeDuble/Git-Etiquette#editing-the-parameters-in-wfprojectsyml-file">here</a>
     * If the app has already been installed to your organization and the required secret variables have been added, all you need to do is update the values of the `organization_name` and `project_number` (<a href="https://github.com/LeDuble/Git-Etiquette#finding-number-of-project-board">see: how to find project number</a>).
 
 ## Learn the strategy
-5. Start learning <a href="https://github.com/LeDuble/Git-Etiquette#git-strategy-and-usage">The strategy</a> and applying it to your workflow!
+6. Start learning <a href="https://github.com/LeDuble/Git-Etiquette#git-strategy-and-usage">The strategy</a> and applying it to your workflow!
 
 ### Start creating
-6. And have fun, enjoy the development process!
+7. And have fun, enjoy the development process!
 
 Read the full documentation of <a href="https://github.com/LeDuble/Git-Etiquette/">Git Etiquette</a> and don't forget to give the project a star on GitHub!
